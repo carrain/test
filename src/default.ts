@@ -8,7 +8,7 @@ export const defaultSetting = {
 
 export const defaultMessage = `
 
-- 特感谢 [OpenAI API (gpt-3.5-turbo)](https://platform.openai.com/docs/guides/chat) 和 [Vercel](http://vercel.com/) 提供支持。
+欢迎来到待开的的神奇网站，愉快的体验chatgpt吧。
 
 - 本站由 [宫笑白]搭建。
 
